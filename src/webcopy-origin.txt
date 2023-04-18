@@ -1,0 +1,3204 @@
+Uri: https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/fullscreen.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\mapbox.js\plugins\leaflet-fullscreen\v1.0.1\fullscreen.png
+Content Type: image/png
+
+Uri: https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/fullscreen@2x.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\mapbox.js\plugins\leaflet-fullscreen\v1.0.1\fullscreen@2x.png
+Content Type: image/png
+
+Uri: https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\mapbox.js\plugins\leaflet-fullscreen\v1.0.1\leaflet.fullscreen.css
+Content Type: text/css
+
+Uri: https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\mapbox.js\plugins\leaflet-fullscreen\v1.0.1\Leaflet.fullscreen.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/gh/jfeltkamp/cookiesjsr@1/dist/cookiesjsr-preloader.min.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\gh\jfeltkamp\cookiesjsr@1\dist\cookiesjsr-preloader.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,600,700
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:400,500,600,700
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/leaflet-gesture-handling@1.2.2/dist/leaflet-gesture-handling.min.css
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\leaflet-gesture-handling@1.2.2\dist\leaflet-gesture-handling.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/leaflet-gesture-handling@1.2.2/dist/leaflet-gesture-handling.min.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\leaflet-gesture-handling@1.2.2\dist\leaflet-gesture-handling.min.js
+Content Type: application/javascript
+
+Uri: https://www.gim-uemoa.org/
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.htm
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/contact/gim_academy_contact
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\contact\gim_academy_contact.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/core/assets/vendor/jquery.ui/themes/base/images/ui-icons_444444_256x240.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\core\assets\vendor\jquery.ui\themes\base\images\ui-icons_444444_256x240.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/core/assets/vendor/jquery.ui/themes/base/images/ui-icons_555555_256x240.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\core\assets\vendor\jquery.ui\themes\base\images\ui-icons_555555_256x240.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/core/assets/vendor/jquery.ui/themes/base/images/ui-icons_777620_256x240.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\core\assets\vendor\jquery.ui\themes\base\images\ui-icons_777620_256x240.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/core/assets/vendor/jquery.ui/themes/base/images/ui-icons_777777_256x240.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\core\assets\vendor\jquery.ui\themes\base\images\ui-icons_777777_256x240.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/core/assets/vendor/jquery.ui/themes/base/images/ui-icons_cc0000_256x240.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\core\assets\vendor\jquery.ui\themes\base\images\ui-icons_cc0000_256x240.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/core/assets/vendor/jquery.ui/themes/base/images/ui-icons_ffffff_256x240.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\core\assets\vendor\jquery.ui\themes\base\images\ui-icons_ffffff_256x240.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/core/themes/bartik/css/components/messages.css?rl6phj
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\core\themes\bartik\css\components\messages.css
+Content Type: text/css
+
+Uri: https://www.gim-uemoa.org/core/themes/stable/images/core/icons/000000/move.svg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\core\themes\stable\images\core\icons\000000\move.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gim-uemoa.org/core/themes/stable/images/core/icons/73b355/check.svg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\core\themes\stable\images\core\icons\73b355\check.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gim-uemoa.org/core/themes/stable/images/core/icons/787878/move.svg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\core\themes\stable\images\core\icons\787878\move.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gim-uemoa.org/core/themes/stable/images/core/icons/787878/twistie-down.svg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\core\themes\stable\images\core\icons\787878\twistie-down.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gim-uemoa.org/core/themes/stable/images/core/icons/787878/twistie-up.svg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\core\themes\stable\images\core\icons\787878\twistie-up.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gim-uemoa.org/core/themes/stable/images/core/icons/e29700/warning.svg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\core\themes\stable\images\core\icons\e29700\warning.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gim-uemoa.org/core/themes/stable/images/core/icons/e32700/error.svg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\core\themes\stable\images\core\icons\e32700\error.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gim-uemoa.org/core/themes/stable/images/core/loading-small.gif
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\core\themes\stable\images\core\loading-small.gif
+Content Type: image/gif
+
+Uri: https://www.gim-uemoa.org/core/themes/stable/images/core/throbber-active.gif
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\core\themes\stable\images\core\throbber-active.gif
+Content Type: image/gif
+
+Uri: https://www.gim-uemoa.org/core/themes/stable/images/core/throbber-inactive.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\core\themes\stable\images\core\throbber-inactive.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/core/themes/stable/images/core/tree-bottom.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\core\themes\stable\images\core\tree-bottom.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/core/themes/stable/images/core/tree.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\core\themes\stable\images\core\tree.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/form/contact
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\form\contact.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/form/nous-rejoindre
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\form\nous-rejoindre.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/form/participation
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\form\participation.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/form/participer-a-nos-evenements
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\form\participer-a-nos-evenements.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/formation-à-distance
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\formation-à-distance.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/formations-certifiantes
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\formations-certifiantes.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/formations-de-places
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\formations-de-places.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/formations-régionales
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\formations-régionales.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/formations-sur-mesure
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\formations-sur-mesure.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/acquisition-monetique
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\acquisition-monetique.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/actualites
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\actualites.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/agency-banking-gestion-des-operations-courantes
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\agency-banking-gestion-des-operations-courantes.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/appel-doffres-recrutement-agence-de-communication
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\appel-doffres-recrutement-agence-de-communication.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/back-office-monetique
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\back-office-monetique.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/comment-prevenir-la-fraude-sur-lactivite-monetique
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\comment-prevenir-la-fraude-sur-lactivite-monetique.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/compensation-reglement-et-apurements-des-suspens-monetique-interbancaires
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\compensation-reglement-et-apurements-des-suspens-monetique-interbancaires.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/comprendre-et-maitriser-le-cycle-de-gestion-des-impayes-et-des-litiges-pour-mieux-repondre-aux
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\comprendre-et-maitriser-le-cycle-de-gestion-des-impayes-et-des-litiges-pour-mieux-repondre-aux.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/conformite-et-normes-securitaires
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\conformite-et-normes-securitaires.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/contact/gim_academy_contact
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\contact\gim_academy_contact.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/contactless-enjeux-technologiques-gestion-de-projet-et-opportunites-commerciales
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\contactless-enjeux-technologiques-gestion-de-projet-et-opportunites-commerciales.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/cybersecurite-et-gouvernance-des-institutions-financieres
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\cybersecurite-et-gouvernance-des-institutions-financieres.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/detection-et-prise-en-charge-des-cas-de-fraudes
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\detection-et-prise-en-charge-des-cas-de-fraudes.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/developper-votre-activite-monetique-tableaux-de-bord-et-outils-danalyse-de-rentabilite
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\developper-votre-activite-monetique-tableaux-de-bord-et-outils-danalyse-de-rentabilite.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/e-commerce-opportunites-de-collaboration-et-de-developpement-de-lecosysteme-du-paiement-regional
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\e-commerce-opportunites-de-collaboration-et-de-developpement-de-lecosysteme-du-paiement-regional.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/emission-monetique
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\emission-monetique.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/ensemble-face-au-covid-19
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\ensemble-face-au-covid-19.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/events
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\events.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/faq
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\faq.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/form/contact
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\form\contact.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/form/participation
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\form\participation.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/formation-gim-pour-developpeurs-connaissance-des-differents-protocoles-formatage-des-messages
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\formation-gim-pour-developpeurs-connaissance-des-differents-protocoles-formatage-des-messages.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/formations
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\formations.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/gestion-de-hsm-et-cles-cryptographiques-monetiques
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\gestion-de-hsm-et-cles-cryptographiques-monetiques.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/gestion-des-automates-bancaires-arrete-gab-et-ajustage-comptable
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\gestion-des-automates-bancaires-arrete-gab-et-ajustage-comptable.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/gestion-des-incidents-et-referentiel-de-prise-en-charge-des-problemes-monetiques
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\gestion-des-incidents-et-referentiel-de-prise-en-charge-des-problemes-monetiques.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/gestion-des-messages-online-entre-le-gim-et-clients-analyses-des-logs
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\gestion-des-messages-online-entre-le-gim-et-clients-analyses-des-logs.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/gestion-du-fichier-back-office-du-gim-lis-et-les-etats-associes
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\gestion-du-fichier-back-office-du-gim-lis-et-les-etats-associes.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/gim-uemoa-processeur-unionpay-pour-la-categorie-gateway-service-provider-acquisition-et-emission
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\gim-uemoa-processeur-unionpay-pour-la-categorie-gateway-service-provider-acquisition-et-emission.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/initiation-la-monetique
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\initiation-la-monetique.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/inscription
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\inscription.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/interbancarite-gim
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\interbancarite-gim.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/interview-dg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\interview-dg.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/interview-dg-business-africa
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\interview-dg-business-africa.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/interview-dg-sur-abidjannet
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\interview-dg-sur-abidjannet.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/la-gestion-des-impayes-gim-visa-et-mastercard
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\la-gestion-des-impayes-gim-visa-et-mastercard.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/la-tokenisation-principes-enjeux-et-opportunites-pour-les-acteurs-de-lecosysteme-du
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\la-tokenisation-principes-enjeux-et-opportunites-pour-les-acteurs-de-lecosysteme-du.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/lactivite-prepaye-defis-de-segmentation-et-opportunites-de-collaboration-entre-les-acteurs-du
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\lactivite-prepaye-defis-de-segmentation-et-opportunites-de-collaboration-entre-les-acteurs-du.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/lagency-banking-comme-outil-dinclusion-financiere-enjeux-technologiques-reglementaires-et
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\lagency-banking-comme-outil-dinclusion-financiere-enjeux-technologiques-reglementaires-et.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/le-gim-uemoa/mot-du-directeur
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\le-gim-uemoa\mot-du-directeur.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/le-gim-uemoa/organigramme
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\le-gim-uemoa\organigramme.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/le_GIM-UEMOA/organisation
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\le_GIM-UEMOA\organisation.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/liste-des-membres
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\liste-des-membres.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/lutte-contre-la-fraude-monetique-technique-de-prevention-de-detection-et-de-prise-en-charge
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\lutte-contre-la-fraude-monetique-technique-de-prevention-de-detection-et-de-prise-en-charge.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/maitrise-de-votre-activite-commercant-developpement-suivi-et-evaluation-du-reseau-dacceptation-et
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\maitrise-de-votre-activite-commercant-developpement-suivi-et-evaluation-du-reseau-dacceptation-et.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/maitrise-et-gestion-des-risques-en-finance-digitale
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\maitrise-et-gestion-des-risques-en-finance-digitale.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/maitrisez-votre-activite-monetique-grace-la-pratique-des-referentiels-de-management-des-risques-et
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\maitrisez-votre-activite-monetique-grace-la-pratique-des-referentiels-de-management-des-risques-et.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/membres/adherer-au-gim-uemoa
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\membres\adherer-au-gim-uemoa.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/membres/BCEAO
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\membres\BCEAO.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/mentions-legales
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\mentions-legales.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/mieux-apprehender-la-conformite-aux-exigences-qualite-et-securite-de-lecosysteme-monetique-regional
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\mieux-apprehender-la-conformite-aux-exigences-qualite-et-securite-de-lecosysteme-monetique-regional.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/monitoring-des-activites-emission-acquisition-internationale
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\monitoring-des-activites-emission-acquisition-internationale.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/monnaie-electronique-et-inclusion-financiere
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\monnaie-electronique-et-inclusion-financiere.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/node/1177
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\node\1177.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/node/2
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\node\2.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/node/231
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\node\231.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/node/232
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\node\232.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/node/233
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\node\233.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/node/234
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\node\234.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/node/235
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\node\235.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/node/236
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\node\236.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/node/237
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\node\237.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/node/238
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\node\238.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/node/263
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\node\263.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/node/264
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\node\264.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/node/265
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\node\265.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/node/266
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\node\266.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/node/267
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\node\267.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/node/6
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\node\6.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/node/70
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\node\70.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/nos-9-nouvelles-th-matiques
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\nos-9-nouvelles-th-matiques.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/nous-rejoindre
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\nous-rejoindre.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/open-banking-un-segment-en-pleine-croissance-concept-general-notions-cles-et-quels-cas-dusage-dans
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\open-banking-un-segment-en-pleine-croissance-concept-general-notions-cles-et-quels-cas-dusage-dans.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/outiller-la-force-de-vente-pour-booster-la-vente-des-produits-et-services-monetiques
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\outiller-la-force-de-vente-pour-booster-la-vente-des-produits-et-services-monetiques.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/partenaires/devenir-partenaire-agree
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\partenaires\devenir-partenaire-agree.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/partenaires/liste-des-partenaires
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\partenaires\liste-des-partenaires.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/photos
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\photos.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/points-de-services
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\points-de-services.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/politique-securitaire
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\politique-securitaire.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/presentation-du-cycle-de-gestion-des-litiges
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\presentation-du-cycle-de-gestion-des-litiges.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/presentation/historique
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\presentation\historique.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/produits-services
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\produits-services.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/publications
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\publications.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/rapport-d-activites
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\rapport-d-activites.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/rapport-d-activites?field_type_rapport_value=All
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\rapport-d-activites-1.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/rapport-d-activites?field_type_rapport_value=annuel
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\rapport-d-activites-3.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/rapport-d-activites?field_type_rapport_value=semestriel
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\rapport-d-activites-2.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/securisation-des-transactions-electroniques-authentification-confidentialite-integrite-et-non
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\securisation-des-transactions-electroniques-authentification-confidentialite-integrite-et-non.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/securite-des-transactions-electroniques
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\securite-des-transactions-electroniques.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/selection-dun-cabinet-de-consultants-pour-le-developpement-dun-catalogue-dapi
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\selection-dun-cabinet-de-consultants-pour-le-developpement-dun-catalogue-dapi.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/selection-dun-integrateur-pour-la-fourniture-et-la-mise-en-place-du-sirh
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\selection-dun-integrateur-pour-la-fourniture-et-la-mise-en-place-du-sirh.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/signature-dun-partenariat-strategique-entre-le-gim-uemoa-et-la-fintech-green-pay-pour-le
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\signature-dun-partenariat-strategique-entre-le-gim-uemoa-et-la-fintech-green-pay-pour-le.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/solutions-et-services/banques-et-institutions-financières
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\solutions-et-services\banques-et-institutions-financières.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/solutions-et-services/GIM-accés-aux-réseaux-internationaux
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\solutions-et-services\GIM-accés-aux-réseaux-internationaux.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/solutions-services/centre-de-services
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\solutions-services\centre-de-services.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/solutions-services/commerces-et-administrations
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\solutions-services\commerces-et-administrations.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/solutions-services/gim-academy
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\solutions-services\gim-academy.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/solutions-services/gim-délégataire
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\solutions-services\gim-délégataire.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/solutions-services/GIM-eCommerce
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\solutions-services\GIM-eCommerce.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/solutions-services/gim-eSecure
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\solutions-services\gim-eSecure.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/solutions-services/gim-paiement-tpe
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\solutions-services\gim-paiement-tpe.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/solutions-services/gim-prepaid
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\solutions-services\gim-prepaid.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/solutions-services/gim-switch
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\solutions-services\gim-switch.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/solutions-services/particuliers
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\solutions-services\particuliers.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/solutions-services/virement-compte-a-compte-sur-les-GAB
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\solutions-services\virement-compte-a-compte-sur-les-GAB.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/tous-les-formulaires
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\tous-les-formulaires.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/videos
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\videos.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/vision-globale-de-la-securite-monetique-dispositifs-et-mesures-de-securite-au-niveau-de-lemetteur
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\vision-globale-de-la-securite-monetique-dispositifs-et-mesures-de-securite-au-niveau-de-lemetteur.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/fr/votre-voyage
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\fr\votre-voyage.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/gim-uemoa/sites/default/files/2021-01/diamond.pdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\gim-uemoa\sites\default\files\2021-01\diamond.pdf
+Content Type: application/pdf
+
+Uri: https://www.gim-uemoa.org/gim-uemoa/sites/default/files/2021-01/emeraude.pdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\gim-uemoa\sites\default\files\2021-01\emeraude.pdf
+Content Type: application/pdf
+
+Uri: https://www.gim-uemoa.org/gim-uemoa/sites/default/files/2021-01/officiel.pdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\gim-uemoa\sites\default\files\2021-01\officiel.pdf
+Content Type: application/pdf
+
+Uri: https://www.gim-uemoa.org/gim-uemoa/sites/default/files/2021-01/saphir.pdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\gim-uemoa\sites\default\files\2021-01\saphir.pdf
+Content Type: application/pdf
+
+Uri: https://www.gim-uemoa.org/gim-uemoa/sites/default/files/2021-01/standard.pdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\gim-uemoa\sites\default\files\2021-01\standard.pdf
+Content Type: application/pdf
+
+Uri: https://www.gim-uemoa.org/gim-uemoa/sites/default/files/2022-10/FORMULAIRE DE RESERVATION GIM UEMOA POUR LE SALON MONETIQUE REGIONAL LES 03 ET 04 NOVEMBRE 2022.doc
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\gim-uemoa\sites\default\files\2022-10\FORMULAIRE DE RESERVATION GIM UEMOA POUR LE SALON MONETIQUE REGIONAL LES 03 ET 04 NOVEMBRE 2022.doc.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/gim-uemoa/sites/default/files/entretien_exclusif_dg_gim_financial_afrik_26_avril_2020.pdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\gim-uemoa\sites\default\files\entretien_exclusif_dg_gim_financial_afrik_26_avril_2020.pdf
+Content Type: application/pdf
+
+Uri: https://www.gim-uemoa.org/gim-uemoa/sites/default/files/icon/pdf-bleu.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\gim-uemoa\sites\default\files\icon\pdf-bleu.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/gim-uemoa/sites/default/files/icon/pdf-icon-bleu.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\gim-uemoa\sites\default\files\icon\pdf-icon-bleu.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/gim-uemoa/sites/default/files/icon/pdf-icon.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\gim-uemoa\sites\default\files\icon\pdf-icon.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/gim-uemoa/sites/default/files/INTERVIEW_ DG GIM-UEMOA _ FRATERNITE MATIN.pdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\gim-uemoa\sites\default\files\INTERVIEW_ DG GIM-UEMOA _ FRATERNITE MATIN.pdf
+Content Type: application/pdf
+
+Uri: https://www.gim-uemoa.org/gim-uemoa/sites/default/files/Partenariat GIM-GREEN PAY_Financial Afrik.docx
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\gim-uemoa\sites\default\files\Partenariat GIM-GREEN PAY_Financial Afrik.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://www.gim-uemoa.org/gim-uemoa/sites/files/CATALOGUE FORMATION GIM ACADEMY  2021 (002)-converted.pdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\gim-uemoa\sites\files\CATALOGUE FORMATION GIM ACADEMY  2021 (002)-converted.pdf
+Content Type: application/pdf
+
+Uri: https://www.gim-uemoa.org/gim-uemoa/themes/gavias_kunco/images/header/img-actus.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\gim-uemoa\themes\gavias_kunco\images\header\img-actus.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/index.php/form/nous-rejoindre
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\form\nous-rejoindre.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/actualites
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\actualites.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/contact/gim_academy_contact
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\contact\gim_academy_contact.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/events
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\events.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/faq
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\faq.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/form/contact
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\form\contact.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/form/participation
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\form\participation.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/formations
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\formations.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/le-gim-uemoa/mot-du-directeur
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\le-gim-uemoa\mot-du-directeur.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/le-gim-uemoa/organigramme
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\le-gim-uemoa\organigramme.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/le_GIM-UEMOA/organisation
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\le_GIM-UEMOA\organisation.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/liste-des-membres
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\liste-des-membres.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/membres/adherer-au-gim-uemoa
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\membres\adherer-au-gim-uemoa.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/membres/BCEAO
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\membres\BCEAO.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/mentions-legales
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\mentions-legales.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1021
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1021.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1022
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1022.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1023
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1023.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1024
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1024.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1025
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1025.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1026
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1026.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1027
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1027.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1028
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1028.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1029
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1029.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1030
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1030.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1031
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1031.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1032
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1032.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1033
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1033.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1034
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1034.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1035
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1035.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1036
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1036.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1037
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1037.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1038
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1038.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1039
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1039.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1040
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1040.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1041
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1041.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1042
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1042.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1043
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1043.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1044
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1044.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1045
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1045.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1046
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1046.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1047
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1047.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1048
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1048.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1049
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1049.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1050
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1050.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1051
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1051.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1052
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1052.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1053
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1053.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1054
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1054.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1055
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1055.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1056
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1056.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1057
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1057.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1058
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1058.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1059
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1059.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1060
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1060.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1061
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1061.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1062
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1062.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1063
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1063.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1064
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1064.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1065
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1065.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1066
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1066.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1067
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1067.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1069
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1069.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1071
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1071.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1072
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1072.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1073
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1073.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1074
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1074.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1075
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1075.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1076
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1076.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1077
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1077.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1087
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1087.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1088
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1088.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1089
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1089.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1090
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1090.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1091
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1091.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1095
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1095.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1096
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1096.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1097
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1097.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1098
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1098.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1099
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1099.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1100
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1100.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1101
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1101.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1102
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1102.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1103
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1103.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1104
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1104.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1105
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1105.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1106
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1106.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1107
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1107.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1108
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1108.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1109
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1109.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1110
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1110.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1111
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1111.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1112
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1112.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1113
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1113.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1114
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1114.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1115
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1115.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1116
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1116.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1117
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1117.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/1177
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\1177.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/151
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\151.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/152
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\152.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/153
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\153.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/2
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\2.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/294
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\294.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/295
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\295.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/296
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\296.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/297
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\297.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/299
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\299.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/301
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\301.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/302
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\302.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/303
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\303.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/304
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\304.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/305
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\305.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/306
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\306.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/307
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\307.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/308
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\308.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/309
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\309.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/311
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\311.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/312
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\312.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/313
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\313.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/314
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\314.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/315
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\315.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/316
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\316.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/317
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\317.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/318
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\318.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/340
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\340.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/341
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\341.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/342
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\342.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/343
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\343.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/344
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\344.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/345
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\345.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/346
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\346.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/347
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\347.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/348
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\348.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/349
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\349.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/350
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\350.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/351
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\351.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/352
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\352.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/353
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\353.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/354
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\354.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/355
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\355.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/356
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\356.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/357
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\357.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/362
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\362.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/363
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\363.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/364
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\364.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/365
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\365.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/366
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\366.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/367
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\367.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/377
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\377.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/378
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\378.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/379
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\379.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/380
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\380.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/6
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\6.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/node/70
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\node\70.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/nos-9-nouvelles-th-matiques
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\nos-9-nouvelles-th-matiques.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/nous-rejoindre
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\nous-rejoindre.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/partenaires/devenir-partenaire-agree
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\partenaires\devenir-partenaire-agree.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/partenaires/liste-des-partenaires
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\partenaires\liste-des-partenaires.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/points-de-services
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\points-de-services.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/politique-securitaire
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\politique-securitaire.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/produits-services
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\produits-services.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/publications
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\publications.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/rapport-d-activites
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\rapport-d-activites.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/rapport-d-activites?field_type_rapport_value=All
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\rapport-d-activites-1.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/rapport-d-activites?field_type_rapport_value=annuel
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\rapport-d-activites-3.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/rapport-d-activites?field_type_rapport_value=semestriel
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\rapport-d-activites-2.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/solutions-et-services/banques-et-institutions-financières
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\solutions-et-services\banques-et-institutions-financières.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/solutions-services/commerces-et-administrations
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\solutions-services\commerces-et-administrations.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/solutions-services/particuliers
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\solutions-services\particuliers.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/23
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\23.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/23?page=0
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\23-2.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/23?page=1
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\23-1.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/24
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\24.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/24?page=0
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\24-2.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/24?page=1
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\24-1.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/25
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\25.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/25?page=0
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\25-2.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/25?page=1
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\25-1.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/25?page=2
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\25-3.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/26
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\26.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/27
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\27.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/27?page=0
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\27-2.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/27?page=1
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\27-1.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/28
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\28.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/28?page=0
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\28-2.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/28?page=1
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\28-1.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/29
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\29.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/29?page=0
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\29-2.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/29?page=1
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\29-1.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/29?page=2
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\29-3.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/30
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\30.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/30?page=0
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\30-2.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/taxonomy/term/30?page=1
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\taxonomy\term\30-1.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/index.php/fr/tous-les-formulaires
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\index.php\fr\tous-les-formulaires.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/inscription
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\inscription.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/libraries/fontawesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\libraries\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.gim-uemoa.org/libraries/fontawesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\libraries\fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gim-uemoa.org/libraries/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\libraries\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.gim-uemoa.org/libraries/fontawesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\libraries\fontawesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://www.gim-uemoa.org/libraries/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\libraries\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: 
+
+Uri: https://www.gim-uemoa.org/libraries/fontawesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\libraries\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.gim-uemoa.org/libraries/fontawesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\libraries\fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gim-uemoa.org/libraries/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\libraries\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.gim-uemoa.org/libraries/fontawesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\libraries\fontawesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://www.gim-uemoa.org/libraries/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\libraries\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: 
+
+Uri: https://www.gim-uemoa.org/libraries/fontawesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\libraries\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.gim-uemoa.org/libraries/fontawesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\libraries\fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gim-uemoa.org/libraries/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\libraries\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.gim-uemoa.org/libraries/fontawesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\libraries\fontawesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://www.gim-uemoa.org/libraries/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\libraries\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: 
+
+Uri: https://www.gim-uemoa.org/modules/colorbox/styles/default/images/controls.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\modules\colorbox\styles\default\images\controls.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/modules/colorbox/styles/default/images/loading_animation.gif
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\modules\colorbox\styles\default\images\loading_animation.gif
+Content Type: image/gif
+
+Uri: https://www.gim-uemoa.org/modules/contrib/better_search/css/images/search-icon.svg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\modules\contrib\better_search\css\images\search-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gim-uemoa.org/modules/contrib/leaflet/assets/spin.gif
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\modules\contrib\leaflet\assets\spin.gif
+Content Type: image/gif
+
+Uri: https://www.gim-uemoa.org/modules/contrib/leaflet/js/leaflet/dist/images/layers-2x.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\modules\contrib\leaflet\js\leaflet\dist\images\layers-2x.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/modules/contrib/leaflet/js/leaflet/dist/images/layers.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\modules\contrib\leaflet\js\leaflet\dist\images\layers.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/modules/contrib/leaflet/js/leaflet/dist/images/marker-icon.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\modules\contrib\leaflet\js\leaflet\dist\images\marker-icon.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/modules/contrib/video_embed_field/css/icons/play.svg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\modules\contrib\video_embed_field\css\icons\play.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gim-uemoa.org/modules/cookies/js/cookiesjsr.conf.js?v=8.9.20
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\modules\cookies\js\cookiesjsr.conf.js
+Content Type: application/javascript
+
+Uri: https://www.gim-uemoa.org/modules/gavias_sliderlayer/vendor/revolution/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\modules\gavias_sliderlayer\vendor\revolution\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/modules/gavias_sliderlayer/vendor/revolution/assets/gridtile.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\modules\gavias_sliderlayer\vendor\revolution\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/modules/gavias_sliderlayer/vendor/revolution/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\modules\gavias_sliderlayer\vendor\revolution\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/modules/gavias_sliderlayer/vendor/revolution/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\modules\gavias_sliderlayer\vendor\revolution\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/modules/gavias_sliderlayer/vendor/revolution/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\modules\gavias_sliderlayer\vendor\revolution\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/modules/gavias_sliderlayer/vendor/revolution/assets/loader.gif
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\modules\gavias_sliderlayer\vendor\revolution\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://www.gim-uemoa.org/modules/gavias_sliderlayer/vendor/revolution/css/closedhand.cur
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\modules\gavias_sliderlayer\vendor\revolution\css\closedhand.cur
+Content Type: 
+
+Uri: https://www.gim-uemoa.org/modules/gavias_sliderlayer/vendor/revolution/css/openhand.cur
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\modules\gavias_sliderlayer\vendor\revolution\css\openhand.cur
+Content Type: 
+
+Uri: https://www.gim-uemoa.org/modules/gavias_sliderlayer/vendor/revolution/fonts/revicons/revicons.eot?5510888=
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\modules\gavias_sliderlayer\vendor\revolution\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.gim-uemoa.org/modules/gavias_sliderlayer/vendor/revolution/fonts/revicons/revicons.svg?5510888=
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\modules\gavias_sliderlayer\vendor\revolution\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gim-uemoa.org/modules/gavias_sliderlayer/vendor/revolution/fonts/revicons/revicons.ttf?5510888=
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\modules\gavias_sliderlayer\vendor\revolution\fonts\revicons\revicons.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.gim-uemoa.org/modules/gavias_sliderlayer/vendor/revolution/fonts/revicons/revicons.woff?5510888=
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\modules\gavias_sliderlayer\vendor\revolution\fonts\revicons\revicons.woff
+Content Type: application/font-woff
+
+Uri: https://www.gim-uemoa.org/modules/webform/images/icons/info.svg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\modules\webform\images\icons\info.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gim-uemoa.org/node/70
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\node\70.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/nos-9-nouvelles-th-matiques
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\nos-9-nouvelles-th-matiques.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/partenaires/devenir-partenaire-agree/fournisseur-de-dab-et-de-gab
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\partenaires\devenir-partenaire-agree\fournisseur-de-dab-et-de-gab.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/partenaires/devenir-partenaire-agree/fournisseur-de-tpe
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\partenaires\devenir-partenaire-agree\fournisseur-de-tpe.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/partenaires/devenir-partenaire-agree/fournisseur-et-personnalisateur-de-carte
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\partenaires\devenir-partenaire-agree\fournisseur-et-personnalisateur-de-carte.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/salon-monetique/exposants
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\salon-monetique\exposants.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/salon-monetique/presentation
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\salon-monetique\presentation.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2020-07/GIM-DELEGATAIRE-ICON.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2020-07\GIM-DELEGATAIRE-ICON.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2020-07/GIM-PAIEMENT-ICON.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2020-07\GIM-PAIEMENT-ICON.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2020-07/GIM-PREPAYE-ICON.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2020-07\GIM-PREPAYE-ICON.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2020-08/Bénin.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2020-08\Bénin.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2020-08/Burkina.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2020-08\Burkina.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2020-08/CIV.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2020-08\CIV.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2020-08/Guinée-Bissau.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2020-08\Guinée-Bissau.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2020-08/Mali.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2020-08\Mali.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2020-08/Niger.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2020-08\Niger.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2020-08/Sénégal.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2020-08\Sénégal.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2020-08/Togo.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2020-08\Togo.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-01/diamond.pdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-01\diamond.pdf
+Content Type: application/pdf
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-01/emeraude.pdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-01\emeraude.pdf
+Content Type: application/pdf
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-01/GIM-ACADEMY-Bandeaux.jpg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-01\GIM-ACADEMY-Bandeaux.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-01/GIM-ACADEMY-Bandeaux_0.jpg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-01\GIM-ACADEMY-Bandeaux_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-01/GIM-ACADEMY-Bandeaux_1.jpg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-01\GIM-ACADEMY-Bandeaux_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-01/GIM-ACADEMY-Bandeaux_2.jpg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-01\GIM-ACADEMY-Bandeaux_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-01/GIM-INTERBANCAIRE-ICON.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-01\GIM-INTERBANCAIRE-ICON.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-01/icon-academy.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-01\icon-academy.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-01/icon-centre-services_0.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-01\icon-centre-services_0.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-01/icon-e-commerce_0.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-01\icon-e-commerce_0.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-01/icon-esure.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-01\icon-esure.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-01/icon-r-seaux-inter.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-01\icon-r-seaux-inter.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-01/icon-virements.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-01\icon-virements.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-01/img-covid.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-01\img-covid.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-01/officiel.pdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-01\officiel.pdf
+Content Type: application/pdf
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-01/saphir.pdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-01\saphir.pdf
+Content Type: application/pdf
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-01/standard.pdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-01\standard.pdf
+Content Type: application/pdf
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-01/visiteurs.pdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-01\visiteurs.pdf
+Content Type: application/pdf
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-02/GIM-ACADEMY-Bandeaux.jpg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-02\GIM-ACADEMY-Bandeaux.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-02/GIM-ACADEMY-Bandeaux_0.jpg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-02\GIM-ACADEMY-Bandeaux_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-02/GIM-ACADEMY-Bandeaux_1.jpg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-02\GIM-ACADEMY-Bandeaux_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-02/GIM-ACADEMY-Bandeaux_2.jpg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-02\GIM-ACADEMY-Bandeaux_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-02/GIM-ACADEMY-Bandeaux_3.jpg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-02\GIM-ACADEMY-Bandeaux_3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-02/GIM-ACADEMY-Bandeaux_4.jpg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-02\GIM-ACADEMY-Bandeaux_4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-02/inter.jpg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-02\inter.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-03/DSC_0017.JPG
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-03\DSC_0017.JPG
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-03/DSC_1728.JPG
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-03\DSC_1728.JPG
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-03/DSC_1948.JPG
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-03\DSC_1948.JPG
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-03/Photo GIM GREEN PAY.jpg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-03\Photo GIM GREEN PAY.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2021-04/Politique Qualité du GIM-UEMOA_EN01_GIM_001_V02.pdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2021-04\Politique Qualité du GIM-UEMOA_EN01_GIM_001_V02.pdf
+Content Type: application/pdf
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2022-09/AGENDA JOUR 1.pdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2022-09\AGENDA JOUR 1.pdf
+Content Type: application/pdf
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2022-09/AGENDA JOUR 2.pdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2022-09\AGENDA JOUR 2.pdf
+Content Type: application/pdf
+
+Uri: https://www.gim-uemoa.org/sites/default/files/2022-09/AGENDA JOUR 3.pdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\2022-09\AGENDA JOUR 3.pdf
+Content Type: application/pdf
+
+Uri: https://www.gim-uemoa.org/sites/default/files/AMI_LA SELECTION D’UN CABINET DE CONSULTANTS.pdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\AMI_LA SELECTION D’UN CABINET DE CONSULTANTS.pdf
+Content Type: application/pdf
+
+Uri: https://www.gim-uemoa.org/sites/default/files/ANNEXE_FORMULAIRE MANIFESTATION DINTERET_GIM.doc
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\ANNEXE_FORMULAIRE MANIFESTATION DINTERET_GIM.doc
+Content Type: application/msword
+
+Uri: https://www.gim-uemoa.org/sites/default/files/Bloc-Objectif.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\Bloc-Objectif.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/CARTE-RESEAU-AFRIQUE.jpg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\CARTE-RESEAU-AFRIQUE.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/COURRIER DE PROLONGATION DE LA DATE DE DEPOT DES OFFRES.pdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\COURRIER DE PROLONGATION DE LA DATE DE DEPOT DES OFFRES.pdf
+Content Type: application/pdf
+
+Uri: https://www.gim-uemoa.org/sites/default/files/css/css_8Fw4OmidAchEpB1H6OGcqEnreVdg4J1fiFLkU2aLsRs.css
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\css\css_8Fw4OmidAchEpB1H6OGcqEnreVdg4J1fiFLkU2aLsRs.css
+Content Type: text/css
+
+Uri: https://www.gim-uemoa.org/sites/default/files/css/css_9kC545Wbgb3PqSK7xPdWNxZGy9tRbFjwFGmdxcImQfo.css
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\css\css_9kC545Wbgb3PqSK7xPdWNxZGy9tRbFjwFGmdxcImQfo.css
+Content Type: text/css
+
+Uri: https://www.gim-uemoa.org/sites/default/files/css/css_b6747KKGgVZ8ra-YvrKOR9byIRBRdo44jTU_jK0E6wI.css
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\css\css_b6747KKGgVZ8ra-YvrKOR9byIRBRdo44jTU_jK0E6wI.css
+Content Type: text/css
+
+Uri: https://www.gim-uemoa.org/sites/default/files/css/css_bMnzcA44qMqAWy__-X1nihIsES0NnwlgjdvzCJri2ws.css
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\css\css_bMnzcA44qMqAWy__-X1nihIsES0NnwlgjdvzCJri2ws.css
+Content Type: text/css
+
+Uri: https://www.gim-uemoa.org/sites/default/files/css/css_cGKsYAXyeQHXfKAoIq_uQdTbSLVCD3RoG7WEoF7qU4o.css
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\css\css_cGKsYAXyeQHXfKAoIq_uQdTbSLVCD3RoG7WEoF7qU4o.css
+Content Type: text/css
+
+Uri: https://www.gim-uemoa.org/sites/default/files/css/css_e2N7wyr6mgbS5h5BL0orBC5VfDYBrZZscgJFzf86ONI.css
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\css\css_e2N7wyr6mgbS5h5BL0orBC5VfDYBrZZscgJFzf86ONI.css
+Content Type: text/css
+
+Uri: https://www.gim-uemoa.org/sites/default/files/css/css_e9ITuSQhDyp0heR1YIZ5WySuyqCpqXGHiDx8MkSedwQ.css
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\css\css_e9ITuSQhDyp0heR1YIZ5WySuyqCpqXGHiDx8MkSedwQ.css
+Content Type: text/css
+
+Uri: https://www.gim-uemoa.org/sites/default/files/css/css_GkygGtvtJ5y1j4S9rdTfdVV8bJUKDzhwKRO7H9Qaox4.css
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\css\css_GkygGtvtJ5y1j4S9rdTfdVV8bJUKDzhwKRO7H9Qaox4.css
+Content Type: text/css
+
+Uri: https://www.gim-uemoa.org/sites/default/files/css/css_GOsvP6FakkgW60oM9T5ZdY_CWmJ3J36L_kjaW2-l9zw.css
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\css\css_GOsvP6FakkgW60oM9T5ZdY_CWmJ3J36L_kjaW2-l9zw.css
+Content Type: text/css
+
+Uri: https://www.gim-uemoa.org/sites/default/files/css/css_gZALfA2GGyQ6Y8mRnLx5UnH5r2Hr0FbFN-F864wFFmY.css
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\css\css_gZALfA2GGyQ6Y8mRnLx5UnH5r2Hr0FbFN-F864wFFmY.css
+Content Type: text/css
+
+Uri: https://www.gim-uemoa.org/sites/default/files/css/css_K33SdvkbYO5-q2IMoPozZNkfiSLOd4KDyIDzSiXT2Uk.css
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\css\css_K33SdvkbYO5-q2IMoPozZNkfiSLOd4KDyIDzSiXT2Uk.css
+Content Type: text/css
+
+Uri: https://www.gim-uemoa.org/sites/default/files/css/css_kDPPBE83fSzNW4-4IS8mpqTlOUzugTYVzDqvchC4x9E.css
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\css\css_kDPPBE83fSzNW4-4IS8mpqTlOUzugTYVzDqvchC4x9E.css
+Content Type: text/css
+
+Uri: https://www.gim-uemoa.org/sites/default/files/css/css_kKY1bmJw9ksdDOGpWzgEo3dvmvBK8e22kcmNsLKHicg.css
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\css\css_kKY1bmJw9ksdDOGpWzgEo3dvmvBK8e22kcmNsLKHicg.css
+Content Type: text/css
+
+Uri: https://www.gim-uemoa.org/sites/default/files/css/css_Uo75JTk_1XiC3yZ19_YzDmgrvTfCPIj_Lo6IVmAgsRw.css
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\css\css_Uo75JTk_1XiC3yZ19_YzDmgrvTfCPIj_Lo6IVmAgsRw.css
+Content Type: text/css
+
+Uri: https://www.gim-uemoa.org/sites/default/files/Favicon-GIM-UEMOA.jpg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\Favicon-GIM-UEMOA.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/Formulaire de questions-réponses.xls
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\Formulaire de questions-réponses.xls
+Content Type: application/vnd.ms-excel
+
+Uri: https://www.gim-uemoa.org/sites/default/files/gva-sliderlayer-upload/Header-GIM-DELEGATAIRE-rm65zv-xd3m8b.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\gva-sliderlayer-upload\Header-GIM-DELEGATAIRE-rm65zv-xd3m8b.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/gva-sliderlayer-upload/Header-GIM-DELEGATAIRE-rm65zv.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\gva-sliderlayer-upload\Header-GIM-DELEGATAIRE-rm65zv.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/gva-sliderlayer-upload/Header-GIM-SWITCH-1buhuk.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\gva-sliderlayer-upload\Header-GIM-SWITCH-1buhuk.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/gva-sliderlayer-upload/Header-GIM-TPE-3syd3n.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\gva-sliderlayer-upload\Header-GIM-TPE-3syd3n.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/gva-sliderlayer-upload/Headers-GIM-e-Commerce-magirc-8ybe0b.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\gva-sliderlayer-upload\Headers-GIM-e-Commerce-magirc-8ybe0b.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/gva-sliderlayer-upload/Headers-GIM-e-Commerce-magirc.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\gva-sliderlayer-upload\Headers-GIM-e-Commerce-magirc.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/gva-sliderlayer-upload/Headers-GIM-e-Secure-46s41d.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\gva-sliderlayer-upload\Headers-GIM-e-Secure-46s41d.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/gva-sliderlayer-upload/Headers-GIM-Prepaid-t0g05n-i3c5fm.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\gva-sliderlayer-upload\Headers-GIM-Prepaid-t0g05n-i3c5fm.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/gva-sliderlayer-upload/Headers-GIM-Prepaid-t0g05n.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\gva-sliderlayer-upload\Headers-GIM-Prepaid-t0g05n.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/icon/calendar.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\icon\calendar.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/icon/location.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\icon\location.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/inline-images/GIM-Organnigramme (1).png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\inline-images\GIM-Organnigramme (1).png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/inline-images/Homme-Chaise-Adhésion.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\inline-images\Homme-Chaise-Adhésion.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/inline-images/logo.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\inline-images\logo.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/inline-images/pi-logo.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\inline-images\pi-logo.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/js/js_5dGQGuxKZERvFl4QfHQd9J2cX-O3IN05iBW-6Svw8mw.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\js\js_5dGQGuxKZERvFl4QfHQd9J2cX-O3IN05iBW-6Svw8mw.js
+Content Type: text/javascript
+
+Uri: https://www.gim-uemoa.org/sites/default/files/js/js_7m5apIcH72JqoomSeugtcbG46BaNwfwahHvpkPMaGKM.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\js\js_7m5apIcH72JqoomSeugtcbG46BaNwfwahHvpkPMaGKM.js
+Content Type: text/javascript
+
+Uri: https://www.gim-uemoa.org/sites/default/files/js/js_an7-xr0Q4MOTotMJL_AAusmoLcFqUEAR0yvxjOe6bqs.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\js\js_an7-xr0Q4MOTotMJL_AAusmoLcFqUEAR0yvxjOe6bqs.js
+Content Type: text/javascript
+
+Uri: https://www.gim-uemoa.org/sites/default/files/js/js_CM7EzvWFTaOEHJVW4yNEU96IZJbH9FfdbtnDXARwvhU.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\js\js_CM7EzvWFTaOEHJVW4yNEU96IZJbH9FfdbtnDXARwvhU.js
+Content Type: text/javascript
+
+Uri: https://www.gim-uemoa.org/sites/default/files/js/js_dcH_fyWgYkrTYlvn-Cu-NBRmNtKSLnNMILh7AXHuMOI.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\js\js_dcH_fyWgYkrTYlvn-Cu-NBRmNtKSLnNMILh7AXHuMOI.js
+Content Type: text/javascript
+
+Uri: https://www.gim-uemoa.org/sites/default/files/js/js_dIK-Eo-HNvxx8zwE25wEqrwamaYoGp_Kqbt8hU4BATE.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\js\js_dIK-Eo-HNvxx8zwE25wEqrwamaYoGp_Kqbt8hU4BATE.js
+Content Type: text/javascript
+
+Uri: https://www.gim-uemoa.org/sites/default/files/js/js_F9rEFvKD1JIJfE87RpTx76xd5BnyR_Q9Y2TVJRuphFM.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\js\js_F9rEFvKD1JIJfE87RpTx76xd5BnyR_Q9Y2TVJRuphFM.js
+Content Type: text/javascript
+
+Uri: https://www.gim-uemoa.org/sites/default/files/js/js_ff5wGCALuWuQtoV3bnD-CM0GM1iVuX8Zxnc7GSQCbc4.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\js\js_ff5wGCALuWuQtoV3bnD-CM0GM1iVuX8Zxnc7GSQCbc4.js
+Content Type: text/javascript
+
+Uri: https://www.gim-uemoa.org/sites/default/files/js/js_HdfjEeaZy9htXXi-iQE1tNsL-iEWmyRp--ZpM1YxmjA.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\js\js_HdfjEeaZy9htXXi-iQE1tNsL-iEWmyRp--ZpM1YxmjA.js
+Content Type: text/javascript
+
+Uri: https://www.gim-uemoa.org/sites/default/files/js/js_hPLFNyHvisMEqPFw2U7Mt7W9mhyeoceTTTi9QnNKykA.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\js\js_hPLFNyHvisMEqPFw2U7Mt7W9mhyeoceTTTi9QnNKykA.js
+Content Type: text/javascript
+
+Uri: https://www.gim-uemoa.org/sites/default/files/js/js_IS1lwVFA_ijz-F4WS3iZkFmblAMPdxaqiPIsm4bxA_Y.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\js\js_IS1lwVFA_ijz-F4WS3iZkFmblAMPdxaqiPIsm4bxA_Y.js
+Content Type: text/javascript
+
+Uri: https://www.gim-uemoa.org/sites/default/files/js/js_JfUnJ-9GONDAyH7QGS2zuFToMnOY3bFpYbD5RntD9G8.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\js\js_JfUnJ-9GONDAyH7QGS2zuFToMnOY3bFpYbD5RntD9G8.js
+Content Type: text/javascript
+
+Uri: https://www.gim-uemoa.org/sites/default/files/js/js_JoPApmB8VducuXls5fXaWFGje8O5qIIsFI59yF4e-gQ.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\js\js_JoPApmB8VducuXls5fXaWFGje8O5qIIsFI59yF4e-gQ.js
+Content Type: text/javascript
+
+Uri: https://www.gim-uemoa.org/sites/default/files/js/js_MCyII5ZjWcMGL2Y8n5XPuP8WSQfh5g3W6QTp1vbd0Mk.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\js\js_MCyII5ZjWcMGL2Y8n5XPuP8WSQfh5g3W6QTp1vbd0Mk.js
+Content Type: text/javascript
+
+Uri: https://www.gim-uemoa.org/sites/default/files/js/js_MlwWLWfHS89RlDkUG3-hGHYfJ6QKlZ73bd5tcAZbgWk.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\js\js_MlwWLWfHS89RlDkUG3-hGHYfJ6QKlZ73bd5tcAZbgWk.js
+Content Type: text/javascript
+
+Uri: https://www.gim-uemoa.org/sites/default/files/js/js_o_N0dVfb3jcKqKnGop8rOiTf2cHV4jiMpTKf9UmPFr8.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\js\js_o_N0dVfb3jcKqKnGop8rOiTf2cHV4jiMpTKf9UmPFr8.js
+Content Type: text/javascript
+
+Uri: https://www.gim-uemoa.org/sites/default/files/js/js_rCYsvSvCJEJJ-H8HQYmyl4-_IgazEPd2owqFaonJhzI.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\js\js_rCYsvSvCJEJJ-H8HQYmyl4-_IgazEPd2owqFaonJhzI.js
+Content Type: text/javascript
+
+Uri: https://www.gim-uemoa.org/sites/default/files/js/js_SUEJrK3uj2Jm-AsNbJCIFdh9m8NsK7yUxjTveIkvm-8.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\js\js_SUEJrK3uj2Jm-AsNbJCIFdh9m8NsK7yUxjTveIkvm-8.js
+Content Type: text/javascript
+
+Uri: https://www.gim-uemoa.org/sites/default/files/js/js_tJzTifRnD-rB129O-zJDpnUMEcmQXRuMbx5jGHyqDNo.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\js\js_tJzTifRnD-rB129O-zJDpnUMEcmQXRuMbx5jGHyqDNo.js
+Content Type: text/javascript
+
+Uri: https://www.gim-uemoa.org/sites/default/files/js/js_vafqn_TkR4FJDI2PjGQocAK_JpXiyuuBo_zuUcMDuDQ.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\js\js_vafqn_TkR4FJDI2PjGQocAK_JpXiyuuBo_zuUcMDuDQ.js
+Content Type: text/javascript
+
+Uri: https://www.gim-uemoa.org/sites/default/files/js/js_zk22wJ4WfNk4_80rT0pfH_ZI3i_tAyrAfPWaWGjBK9U.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\js\js_zk22wJ4WfNk4_80rT0pfH_ZI3i_tAyrAfPWaWGjBK9U.js
+Content Type: text/javascript
+
+Uri: https://www.gim-uemoa.org/sites/default/files/js/js__vkx_Rc-Av4o2lRIA-xtvuGwK9GcRkC6jwficECVWkA.js
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\js\js__vkx_Rc-Av4o2lRIA-xtvuGwK9GcRkC6jwficECVWkA.js
+Content Type: text/javascript
+
+Uri: https://www.gim-uemoa.org/sites/default/files/Offre Financière_Cadre de Réponse.xlsx
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\Offre Financière_Cadre de Réponse.xlsx
+Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+
+Uri: https://www.gim-uemoa.org/sites/default/files/Offre Technique_Cadre de Réponse.xlsx
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\Offre Technique_Cadre de Réponse.xlsx
+Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+
+Uri: https://www.gim-uemoa.org/sites/default/files/pays/benin.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\pays\benin.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/pays/bissau.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\pays\bissau.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/pays/burkina.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\pays\burkina.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/pays/civ.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\pays\civ.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/pays/mali.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\pays\mali.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/pays/niger.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\pays\niger.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/pays/senegal.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\pays\senegal.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/pays/togo.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\pays\togo.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/SALON-MONETIQUE.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\SALON-MONETIQUE.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/a_la_une/public/2021-01/img-covid.png?itok=OqYye6Ua
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\a_la_une\public\2021-01\img-covid.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/a_la_une/public/2021-02/DG.jpg?itok=ZA5PCapM
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\a_la_une\public\2021-02\DG.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/a_la_une/public/2021-02/inter.jpg?itok=39yLTvNY
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\a_la_une\public\2021-02\inter.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/a_la_une/public/2021-02/Sans titre.png?itok=IvxpJJi1
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\a_la_une\public\2021-02\Sans titre.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/a_la_une/public/2021-06/UnionPay ok.jpg?itok=1hM48Ucv
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\a_la_une\public\2021-06\UnionPay ok.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/a_la_une/public/2021-08/corportate DG GIM UEMOA_-69_0.jpg?itok=lrIKE3Hs
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\a_la_une\public\2021-08\corportate DG GIM UEMOA_-69_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/a_la_une/public/2022-02/corportate DG GIM UEMOA_-69_0.jpg?itok=ZpG8ckao
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\a_la_une\public\2022-02\corportate DG GIM UEMOA_-69_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/a_la_une/public/2023-02/img-appels-offre-2_0.png?itok=V2RAKG3g
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\a_la_une\public\2023-02\img-appels-offre-2_0.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/a_la_une/public/2023-03/img-appels-offre-2.png?itok=JC6-8vc6
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\a_la_une\public\2023-03\img-appels-offre-2.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/a_la_une/public/2023-03/img-appels-offre-2_0.png?itok=AXttHME7
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\a_la_une\public\2023-03\img-appels-offre-2_0.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/nos_membres/public/2020-07/ATTIJARIWAFA.png?itok=lwfwIwob
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\nos_membres\public\2020-07\ATTIJARIWAFA.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/nos_membres/public/2020-07/BHS.png?itok=hjNveyKv
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\nos_membres\public\2020-07\BHS.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/nos_membres/public/2020-07/BOA.png?itok=eig0ScUR
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\nos_membres\public\2020-07\BOA.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/nos_membres/public/2020-07/BSIC.png?itok=D14u20E9
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\nos_membres\public\2020-07\BSIC.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/nos_membres/public/2020-07/ORABANK.png?itok=G2J8YrAf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\nos_membres\public\2020-07\ORABANK.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/nos_membres/public/2020-07/SGBS.png?itok=YibT8CU2
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\nos_membres\public\2020-07\SGBS.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/nos_membres/public/2020-07/UBA.png?itok=u03okIP5
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\nos_membres\public\2020-07\UBA.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/nos_membres/public/2021-01/logo - BNDA.jpg?itok=8xHhfxuY
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\nos_membres\public\2021-01\logo - BNDA.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/nos_membres/public/2021-01/logo -ECOBANK.jpg?itok=bng770zG
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\nos_membres\public\2021-01\logo -ECOBANK.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/nos_membres/public/2021-01/logo-bgfi-bank.jpg?itok=BTxFD6vJ
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\nos_membres\public\2021-01\logo-bgfi-bank.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/nos_membres/public/2021-01/Logo-NSIA-BANK.png?itok=W5pvTw9I
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\nos_membres\public\2021-01\Logo-NSIA-BANK.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/nos_membres/public/2021-01/LOGO_CBI.jpg?itok=qPEZUV54
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\nos_membres\public\2021-01\LOGO_CBI.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/nos_membres/public/2021-02/logo-baic.png?itok=HxG_wJ8B
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\nos_membres\public\2021-02\logo-baic.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/nos_membres/public/2021-02/logo-bam.png?itok=eYEVgj-Z
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\nos_membres\public\2021-02\logo-bam.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/nos_membres/public/2021-02/logo-bci.png?itok=M5KmcypZ
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\nos_membres\public\2021-02\logo-bci.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/nos_membres/public/2021-02/logo-bcs.png?itok=SmPrNaIb
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\nos_membres\public\2021-02\logo-bcs.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/nos_membres/public/2021-02/logo-bdm-sa.png?itok=2ZgST0mg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\nos_membres\public\2021-02\logo-bdm-sa.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/nos_membres/public/2021-02/logo-bibe%402x.png?itok=fjcZYwXm
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\nos_membres\public\2021-02\logo-bibe@2x.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/nos_membres/public/2021-02/logo-bms-sa-2.png?itok=FSS-uCjl
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\nos_membres\public\2021-02\logo-bms-sa-2.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/nos_membres/public/2021-02/logo-ccei%403x.png?itok=bE66_xmP
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\nos_membres\public\2021-02\logo-ccei@3x.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/nos_membres/public/2021-02/logo-orange%402x.png?itok=tWIjcP__
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\nos_membres\public\2021-02\logo-orange@2x.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2020-08/BGFI.png?itok=lX0CM8d_
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2020-08\BGFI.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2020-08/BOA.png?itok=4bKzHM48
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2020-08\BOA.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2020-08/Logo-Orabank.png?itok=8jFKrtWd
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2020-08\Logo-Orabank.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/5da0ab4487337-im1-sonibank-benin.jpg?itok=IJ34nFVK
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\5da0ab4487337-im1-sonibank-benin.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/BACI-Logo-slogan.png?itok=6h-61qX4
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\BACI-Logo-slogan.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/BAM-Logo_0.png?itok=gtaXXFUY
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\BAM-Logo_0.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/BAM-Logo_1.png?itok=h1YgwhGj
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\BAM-Logo_1.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/COFIPA-BANK.jpg?itok=GAyv_2Kn
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\COFIPA-BANK.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/f9cbd5d8.jpg?itok=L1sNltNB
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\f9cbd5d8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo -ECOBANK_0.jpg?itok=VnLuzUdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo -ECOBANK_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo SUNU bank OK_LOGO SUNU BANK OFFICIEL.jpg?itok=PjJiP08l
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo SUNU bank OK_LOGO SUNU BANK OFFICIEL.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-180x55_0.png?itok=uKsVotbK
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-180x55_0.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-banque.png?itok=nwZBgSTL
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-banque.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-banque_0.png?itok=x1PhKJa8
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-banque_0.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-banque_1.png?itok=KB0ZAFkl
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-banque_1.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-bgfi-bank_0.jpg?itok=bvaXey78
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-bgfi-bank_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-bgfi-bank_1.jpg?itok=G1q3mJVn
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-bgfi-bank_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-BHCI_min_0.png?itok=AQWkVb1R
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-BHCI_min_0.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-bibe_0.jpg?itok=X_SG8gPE
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-bibe_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-boa-benin_0.jpg?itok=AL4CDivQ
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-boa-benin_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-boa-benin_1.jpg?itok=W4if91j8
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-boa-benin_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-bridgebankgroup.gif?itok=ZhbQac7K
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-bridgebankgroup.gif
+Content Type: image/gif
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-bsic.jpg?itok=vRTiOVFD
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-bsic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-ccei-banque-bj_0.jpg?itok=yiv_4S73
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-ccei-banque-bj_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-ccei-banque-bj_1.jpg?itok=LTwub9MB
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-ccei-banque-bj_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-coris-bank.jpg?itok=A3Zpp767
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-coris-bank.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-coris-bank_0.jpg?itok=SzpW_Wjn
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-coris-bank_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-coris-bank_1.jpg?itok=7Ue_WNYK
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-coris-bank_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-ecobank.jpg?itok=-jhIJ2dV
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-ecobank.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-ecobank_0.jpg?itok=UALbMMiL
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-ecobank_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-ecobank_1.jpg?itok=jzo2szB6
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-ecobank_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/Logo-NSIA-BANK_1.png?itok=QmRogFk4
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\Logo-NSIA-BANK_1.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/Logo-NSIA-BANK_2.png?itok=rXsza-na
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\Logo-NSIA-BANK_2.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-orabank_1.jpg?itok=3siQCr96
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-orabank_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-orabank_2.jpg?itok=51kO80VY
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-orabank_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-societe-generale.jpg?itok=yIt4R3dL
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-societe-generale.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-societe-generale_0.jpg?itok=v1ySN5yh
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-societe-generale_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-societe-generale_1.jpg?itok=MPuR5giJ
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-societe-generale_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-sonibank.png?itok=GpyX32D-
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-sonibank.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo-uba-bank_2.jpg?itok=EsNBTlFg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo-uba-bank_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo.jpg?itok=YU--5lrg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo.png?itok=2QHRpa7Z
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo_0.jpg?itok=VIG0UQn_
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo_0.png?itok=xNfOYxQS
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo_0.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo_bsic-21.jpg?itok=zp6EOk1t
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo_bsic-21.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo_bsic-21_0.jpg?itok=w61uzaxx
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo_bsic-21_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo_ibbank6_2.png?itok=8zCogBdd
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo_ibbank6_2.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/logo_ibbank6_2_0.png?itok=yvcxPhHq
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\logo_ibbank6_2_0.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/Unknown.jpg?itok=W7LIhZMm
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\Unknown.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/Unknown.png?itok=H8i_3hWf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\Unknown.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/Unknown_0.jpg?itok=3LkR4BlN
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\Unknown_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/unnamed.png?itok=qiQVMwT5
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\unnamed.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-01/unnamed_0.png?itok=BOtFo1do
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-01\unnamed_0.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/1200px-CBAO_GAWB_logo.jpg?itok=sWD-xbp6
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\1200px-CBAO_GAWB_logo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/1200px-Standard_Chartered_(logo).svg_.png?itok=rnR9ZqgE
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\1200px-Standard_Chartered_(logo).svg_.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/1480404523_Cameroun_Offres_Emplois_Stages-ECOBANK.jpg?itok=Y1XJ3-FC
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\1480404523_Cameroun_Offres_Emplois_Stages-ECOBANK.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/1480404523_Cameroun_Offres_Emplois_Stages-ECOBANK_0.jpg?itok=sHpQ70GE
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\1480404523_Cameroun_Offres_Emplois_Stages-ECOBANK_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/1480404523_Cameroun_Offres_Emplois_Stages-ECOBANK_1.jpg?itok=xtU2Sv_k
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\1480404523_Cameroun_Offres_Emplois_Stages-ECOBANK_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/1480404523_Cameroun_Offres_Emplois_Stages-ECOBANK_2.jpg?itok=wpDU8S8Z
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\1480404523_Cameroun_Offres_Emplois_Stages-ECOBANK_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/1480404523_Cameroun_Offres_Emplois_Stages-ECOBANK_3.jpg?itok=kyNQGjSH
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\1480404523_Cameroun_Offres_Emplois_Stages-ECOBANK_3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/1534173415210.gif?itok=Nv0BUO-c
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\1534173415210.gif
+Content Type: image/gif
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/1597055797591.jpeg?itok=t7Lwik5u
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\1597055797591.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/1600351691399.jpeg?itok=mpESqUrq
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\1600351691399.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/20201007131552!Bank_of_africa-logo.png?itok=oeClir2x
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\20201007131552!Bank_of_africa-logo.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/20201007131552!Bank_of_africa-logo_0.png?itok=n9mHbDUR
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\20201007131552!Bank_of_africa-logo_0.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/20201007131552!Bank_of_africa-logo_1.png?itok=zr_9bZpZ
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\20201007131552!Bank_of_africa-logo_1.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/2cba0412f0b1834a81740711bbcbe3.jpg?itok=SBs3q4Bm
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\2cba0412f0b1834a81740711bbcbe3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/5441eb_7663f0d53572468ab8d27fb6e0db4a56_mv2.png?itok=hHcTKLVI
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\5441eb_7663f0d53572468ab8d27fb6e0db4a56_mv2.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/5d135a87e8165-banniere-logo-bia-togo.jpg?itok=p5yiD360
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\5d135a87e8165-banniere-logo-bia-togo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/94faa300-1783-4abb-8829-82a47bec889f.jpeg?itok=NOPYm0ey
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\94faa300-1783-4abb-8829-82a47bec889f.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/auth_logo.png?itok=B0y1ecyE
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\auth_logo.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/bceao_share_0-1_0.png?itok=mYtB3WoE
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\bceao_share_0-1_0.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/BCILOGO.png?itok=SYkzop5n
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\BCILOGO.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/BCILOGO_0.png?itok=mf02kG3F
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\BCILOGO_0.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/BDM_SA_logo.png?itok=rmOELaTi
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\BDM_SA_logo.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/BGFI_logo.png?itok=947WbxiA
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\BGFI_logo.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/bms-removebg.png?itok=HT93-n5V
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\bms-removebg.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/boa_sn.jpeg?itok=JMHPk1ne
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\boa_sn.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/BRM_logo-300x209.png?itok=YngNjF8L
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\BRM_logo-300x209.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/bsic.jpeg?itok=WnoNZIHp
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\bsic.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/bsic_0.jpeg?itok=S3s9Lzai
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\bsic_0.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/btci.jpg?itok=GDeVfuZS
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\btci.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/Diamond_Bank_Logo.jpg?itok=AolWTlX5
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\Diamond_Bank_Logo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/e981d7_6791f29d85664db2a40abb98fbfed86f_mv2.jpg?itok=7NQmCkBk
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\e981d7_6791f29d85664db2a40abb98fbfed86f_mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/etablissementon2215.jpeg?itok=jiRvdMmr
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\etablissementon2215.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/fbbn-300x217.jpeg?itok=QPD--CNx
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\fbbn-300x217.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/freemoney_0.png?itok=Eu6qQ1PN
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\freemoney_0.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/Groupe-NSIABleu.jpeg?itok=GObZNNfc
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\Groupe-NSIABleu.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/image109.jpg?itok=KDxa4mB4
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\image109.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/images.png?itok=LPWA020k
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\images.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/images_0.png?itok=EHBpx6-e
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\images_0.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/image_news_get.png?itok=tdyGKNtV
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\image_news_get.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/img-8.png?itok=zGHwCpQn
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\img-8.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/img-8_0.png?itok=ZDBPG-Pj
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\img-8_0.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/img-8_1.png?itok=ZW5orwjj
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\img-8_1.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/img-8_2.png?itok=7FcRTUrJ
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\img-8_2.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/kisspng-socit-gnrale-de-banques-en-guine-gefa-ba-league-of-legends-gamersorigin-esports-5b8c82eca47510.5783515115359352126736.jpg?itok=Bq_cenn-
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\kisspng-socit-gnrale-de-banques-en-guine-gefa-ba-league-of-legends-gamersorigin-esports-5b8c82eca47510.5783515115359352126736.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/kisspng-united-bank-for-africa-financial-institution-finan-union-bank-nigeria-plc-5b1df75455d5e2.4187542415286905163516.jpg?itok=Q85dc4jX
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\kisspng-united-bank-for-africa-financial-institution-finan-union-bank-nigeria-plc-5b1df75455d5e2.4187542415286905163516.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/kisspng-united-bank-for-africa-financial-institution-finan-union-bank-nigeria-plc-5b1df75455d5e2.4187542415286905163516_0.jpg?itok=UwVj-9rK
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\kisspng-united-bank-for-africa-financial-institution-finan-union-bank-nigeria-plc-5b1df75455d5e2.4187542415286905163516_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/LOGO-01.png?itok=ISmAj8nY
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\LOGO-01.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/logo-11.png?itok=a2Z4bAK8
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\logo-11.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/logo-banque.png?itok=WpWGqB6Z
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\logo-banque.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/logo-banque_0.png?itok=VNCgsmNy
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\logo-banque_0.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/Logo-BDUCI.png?itok=WxGgI4Mi
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\Logo-BDUCI.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/logo-bin.png?itok=hDh8QxEg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\logo-bin.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/logo-bsic.jpg?itok=cYDQNRAG
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\logo-bsic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/logo-bsic_0.jpg?itok=oFV-r83c
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\logo-bsic_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/logo-bsic_1.jpg?itok=E-J26oZ_
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\logo-bsic_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/logo-cbi.jpg?itok=hMptN9fK
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\logo-cbi.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/logo-cbi_0.jpg?itok=X9wXSuVV
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\logo-cbi_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/logo-coris-bank.jpeg?itok=I7RK-Sq4
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\logo-coris-bank.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/logo-coris-bank_0.jpeg?itok=S385jRxe
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\logo-coris-bank_0.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/Logo-La-Poste-Togo.jpg?itok=xbAk65lu
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\Logo-La-Poste-Togo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/logo-mansabank-2.png?itok=qqLX_H2H
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\logo-mansabank-2.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/Logo-NSIA-BANK.png?itok=cQb02FR9
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\Logo-NSIA-BANK.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/logo-orabank.jpg?itok=BV48JvTq
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\logo-orabank.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/logo-orabank_0.jpg?itok=-JuaK43k
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\logo-orabank_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/logo-orabank_1.jpg?itok=MFGKT8cB
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\logo-orabank_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/logo-orabank_2.jpeg?itok=ruixfVVN
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\logo-orabank_2.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/logo-orabank_2.jpg?itok=Ts_c-oFo
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\logo-orabank_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/logo-orabank_2_0.jpeg?itok=qa1mlefX
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\logo-orabank_2_0.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/Logo.png?itok=i7kWG3wQ
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\Logo.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/logo2.png?itok=u62xHuiX
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\logo2.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/logo2_0.png?itok=zopLsTEP
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\logo2_0.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/Logo_Afriland.png?itok=sLTAgi80
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\Logo_Afriland.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/logo_bhs.jpg?itok=yO6ZkYq3
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\logo_bhs.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/logo_bhs_0.jpg?itok=9rRtKSz5
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\logo_bhs_0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/png-clipart-commercial-international-bank-commercial-bank-national-bank-of-egypt-cib-bank-bank-text-trademark.png?itok=ofDVhrR3
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\png-clipart-commercial-international-bank-commercial-bank-national-bank-of-egypt-cib-bank-bank-text-trademark.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/qp0WhgDq.jpg?itok=LVWQtH_u
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\qp0WhgDq.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/Sgbs_logo.png?itok=NANFiaYy
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\Sgbs_logo.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/siab-togo.jpeg?itok=t73uhFBX
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\siab-togo.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/United_Bank_for_Africa_logo.svg_.png?itok=hQIEO8pT
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\United_Bank_for_Africa_logo.svg_.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/unnamed.jpeg?itok=M7_Y0n1N
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\unnamed.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/unnamed.jpg?itok=O0fqegDb
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\unnamed.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/unnamed.png?itok=RmPTjubB
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\unnamed.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/pays_membre/public/2021-03/xBNDA.png.pagespeed.ic_.nINX0TNQeP.png?itok=egEvkgig
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\pays_membre\public\2021-03\xBNDA.png.pagespeed.ic_.nINX0TNQeP.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/small/public/video_thumbnails/MjjlPB9ajOo.jpg?itok=QiINx3kH
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\small\public\video_thumbnails\MjjlPB9ajOo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/small/public/video_thumbnails/X8waIH2H1WE.jpg?itok=Upjw7uDY
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\small\public\video_thumbnails\X8waIH2H1WE.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/styles/small/public/video_thumbnails/_bvGjPOCtZs.jpg?itok=3OERnao0
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\styles\small\public\video_thumbnails\_bvGjPOCtZs.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/sites/default/files/TDR _SELECTION D’UN INTEGRATEUR POUR LA FOURNITURE ET LA MISE EN PLACE DE SAP SUCCESSFACTORS (MODE SaaS).pdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\TDR _SELECTION D’UN INTEGRATEUR POUR LA FOURNITURE ET LA MISE EN PLACE DE SAP SUCCESSFACTORS (MODE SaaS).pdf
+Content Type: application/pdf
+
+Uri: https://www.gim-uemoa.org/sites/default/files/TDR_RECRUTEMENT AGENCE DE COMMUNICATION-2023_VF_0.pdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\TDR_RECRUTEMENT AGENCE DE COMMUNICATION-2023_VF_0.pdf
+Content Type: application/pdf
+
+Uri: https://www.gim-uemoa.org/sites/default/files/Vision.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\default\files\Vision.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/files/Bulletin d'inscription Administration Publique.pdf
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\files\Bulletin d'inscription Administration Publique.pdf
+Content Type: application/pdf
+
+Uri: https://www.gim-uemoa.org/sites/gim-uemoa.dd/files/Background-Bleu.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\gim-uemoa.dd\files\Background-Bleu.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/gim-uemoa.dd/files/MISSIONS.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\gim-uemoa.dd\files\MISSIONS.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/sites/gim-uemoa.dd/files/SALON-MONETIQUE.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\sites\gim-uemoa.dd\files\SALON-MONETIQUE.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/solutions-et-services/banques-et-institutions-financières
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\solutions-et-services\banques-et-institutions-financières.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/solutions-et-services/GIM-accés-aux-réseaux-internationaux
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\solutions-et-services\GIM-accés-aux-réseaux-internationaux.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/solutions-services/centre-de-services
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\solutions-services\centre-de-services.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/solutions-services/commerces-et-administrations
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\solutions-services\commerces-et-administrations.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/solutions-services/gim-délégataire
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\solutions-services\gim-délégataire.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/solutions-services/gim-delegataire
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\solutions-services\gim-delegataire.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/solutions-services/gim-eCommerce
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\solutions-services\gim-eCommerce.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/solutions-services/gim-eSecure
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\solutions-services\gim-eSecure.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/solutions-services/gim-paiement-tpe
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\solutions-services\gim-paiement-tpe.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/solutions-services/gim-prepaid
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\solutions-services\gim-prepaid.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/solutions-services/gim-switch
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\solutions-services\gim-switch.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/solutions-services/particuliers
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\solutions-services\particuliers.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/solutions-services/virement-compte-a-compte-sur-les-GAB
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\solutions-services\virement-compte-a-compte-sur-les-GAB.html
+Content Type: text/html
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/css/font-awesome/fonts/fontawesome-webfont.eot
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\css\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/css/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\css\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/css/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\css\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/css/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\css\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/css/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\css\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/css/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\css\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/fonts/icon/icon.eot?blahfl=
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\fonts\icon\icon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/fonts/icon/icon.svg?blahfl=
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\fonts\icon\icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/fonts/icon/icon.ttf?blahfl=
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\fonts\icon\icon.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/fonts/icon/icon.woff?blahfl=
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\fonts\icon\icon.woff
+Content Type: application/font-woff
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/forum-default.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\forum-default.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/forum-icons.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\forum-icons.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/Accès-aux-réseaux-internationaux.jpg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\Accès-aux-réseaux-internationaux.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/appel-offre.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\appel-offre.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/banner-monetique.jpg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\banner-monetique.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/covid.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\covid.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/GIM-ACADEMY-Bandeaux.jpg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\GIM-ACADEMY-Bandeaux.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/header-bulletin.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\header-bulletin.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/header-centre-services.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\header-centre-services.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/Header-GIM-DELEGATAIRE.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\Header-GIM-DELEGATAIRE.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/Header-GIM-MEMBRES-2.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\Header-GIM-MEMBRES-2.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/Header-GIM-MEMBRES-3.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\Header-GIM-MEMBRES-3.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/Header-GIM-PARTENAIRES.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\Header-GIM-PARTENAIRES.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/Header-GIM-POINTS-DE-SERVICES.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\Header-GIM-POINTS-DE-SERVICES.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/Header-GIM-POLITIQUE-SECU.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\Header-GIM-POLITIQUE-SECU.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/Header-GIM-PRODUITS-SERVICES-1.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\Header-GIM-PRODUITS-SERVICES-1.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/Header-GIM-PRODUITS-SERVICES.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\Header-GIM-PRODUITS-SERVICES.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/Header-GIM-SWITCH.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\Header-GIM-SWITCH.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/Header-GIM-TPE.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\Header-GIM-TPE.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/header-membres.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\header-membres.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/header-presentation.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\header-presentation.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/Headers-GIM-e-Commerce.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\Headers-GIM-e-Commerce.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/Headers-GIM-e-Secure.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\Headers-GIM-e-Secure.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/Headers-GIM-Prepaid.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\Headers-GIM-Prepaid.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/Interbancarite-gim.jpg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\Interbancarite-gim.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/siege_site.jpg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\siege_site.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/votre-avis-compte.jpg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\votre-avis-compte.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/header/voyage.jpg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\header\voyage.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/icon-play-2.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\icon-play-2.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/icon-play.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\icon-play.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/icon/barre.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\icon\barre.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/images/icon/envelop.svg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\images\icon\envelop.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/logo-white.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\logo-white.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/logo.jpg
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\logo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/owl-carousel/assets/owl.video.play.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\owl-carousel\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/popup-gallery/fonts/lg.eot
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\popup-gallery\fonts\lg-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/popup-gallery/fonts/lg.eot?n1z373=
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\popup-gallery\fonts\lg.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/popup-gallery/fonts/lg.svg?n1z373=
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\popup-gallery\fonts\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/popup-gallery/fonts/lg.ttf?n1z373=
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\popup-gallery\fonts\lg.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/popup-gallery/fonts/lg.woff?n1z373=
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\popup-gallery\fonts\lg.woff
+Content Type: application/font-woff
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/popup-gallery/img/loading.gif
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\popup-gallery\img\loading.gif
+Content Type: image/gif
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/popup-gallery/img/video-play.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\popup-gallery\img\video-play.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/popup-gallery/img/vimeo-play.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\popup-gallery\img\vimeo-play.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/popup-gallery/img/youtube-play.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\popup-gallery\img\youtube-play.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/dark_rounded/btnNext.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\dark_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/dark_rounded/btnPrevious.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\dark_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/dark_rounded/contentPattern.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\dark_rounded\contentPattern.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/dark_rounded/loader.gif
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\dark_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/dark_rounded/sprite.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\dark_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/dark_square/btnNext.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\dark_square\btnNext.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/dark_square/btnPrevious.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\dark_square\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/dark_square/loader.gif
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\dark_square\loader.gif
+Content Type: image/gif
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/dark_square/sprite.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\dark_square\sprite.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/default/default_thumb.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\default\default_thumb.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/default/loader.gif
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\default\loader.gif
+Content Type: image/gif
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/default/sprite.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\default\sprite.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/default/sprite_next.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\default\sprite_next.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/default/sprite_prev.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\default\sprite_prev.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/default/sprite_x.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\default\sprite_x.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/default/sprite_y.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\default\sprite_y.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/facebook/btnNext.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\facebook\btnNext.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/facebook/btnPrevious.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\facebook\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/facebook/contentPatternBottom.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\facebook\contentPatternBottom.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/facebook/contentPatternLeft.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\facebook\contentPatternLeft.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/facebook/contentPatternRight.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\facebook\contentPatternRight.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/facebook/contentPatternTop.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\facebook\contentPatternTop.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/facebook/default_thumbnail.gif
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\facebook\default_thumbnail.gif
+Content Type: image/gif
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/facebook/loader.gif
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\facebook\loader.gif
+Content Type: image/gif
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/facebook/sprite.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\facebook\sprite.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/light_rounded/btnNext.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\light_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/light_rounded/btnPrevious.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\light_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/light_rounded/loader.gif
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\light_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/light_rounded/sprite.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\light_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/light_square/btnNext.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\light_square\btnNext.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/light_square/btnPrevious.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\light_square\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/themes/gavias_kunco/vendor/prettyphoto/images/prettyPhoto/light_square/sprite.png
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\themes\gavias_kunco\vendor\prettyphoto\images\prettyPhoto\light_square\sprite.png
+Content Type: image/png
+
+Uri: https://www.gim-uemoa.org/webinaires
+File Name: C:\Downloaded Web Sites\www.gim-uemoa.org\webinaires.html
+Content Type: text/html
+
